@@ -1,4 +1,4 @@
 # drag-drop
-Simple drag and drop with python
+Simple drag-drop with python
 
 ![Gif](simple-gif.gif)
