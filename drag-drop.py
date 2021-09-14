@@ -25,9 +25,7 @@ class App(QMainWindow):
     	for file in files:
     		image = cv2.imread(file)
     		cv2.imshow('image', image)
-    		cv2.waitKey(0)
-
-        
+    		cv2.waitKey(0)       
     
 if __name__ == '__main__':
     app = QApplication(sys.argv)
